@@ -1,0 +1,18 @@
+﻿@model tarea3.Models.Calcular
+
+@{
+    ViewBag.Title = "Sumar";
+}
+
+<h2>Sumar</h2>
+
+@using(Html.BeginForm())
+{
+    @Html.Label("numero1   ");
+    @Html.TextBoxFor(operador => operador.a);<br/><br/>
+<br/>    @Html.Label("numero2   ");  
+    @Html.TextBoxFor(operador => operador.b);<br/><br/>
+    <p><input type="submit" value="SUMAR" /></p>
+       
+}
+<p>Resultado -> @ViewBag.r </p>

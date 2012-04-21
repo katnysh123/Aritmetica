@@ -1,0 +1,16 @@
+﻿@model tarea3.Models.Calcular
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2> Calculadora</h2>
+@using(Html.BeginForm())
+{
+    @Html.Label("numero1");
+    @Html.TextBoxFor(operador => operador.a);<br/>
+    @Html.Label("numero2");  
+    @Html.TextBoxFor(operador => operador.b);<br />
+    <p><input type="submit" value="sumar" /></p>
+       
+}
+<p>Resultado -></p>@ViewBag.r

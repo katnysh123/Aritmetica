@@ -1,0 +1,17 @@
+﻿@model tarea3.Models.Calcular
+
+@{
+    ViewBag.Title = "Dividir";
+}
+
+<h2>Dividir</h2>
+@using(Html.BeginForm())
+{
+    @Html.Label("numero1   ");
+    @Html.TextBoxFor(operador => operador.c);<br/><br/>
+    @Html.Label("numero2   ");  
+    @Html.TextBoxFor(operador => operador.d);<br/><br/>
+    <p><input type="submit" value="DIVIDIR" /></p>
+       
+}
+<p>Resultado ->  @ViewBag.r </p>

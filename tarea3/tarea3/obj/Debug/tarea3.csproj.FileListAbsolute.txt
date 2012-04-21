@@ -1,0 +1,21 @@
+c:\users\owner\documents\visual studio 2010\Projects\tarea3\tarea3\bin\tarea3.dll
+c:\users\owner\documents\visual studio 2010\Projects\tarea3\tarea3\bin\tarea3.pdb
+c:\users\owner\documents\visual studio 2010\Projects\tarea3\tarea3\bin\EntityFramework.dll
+c:\users\owner\documents\visual studio 2010\Projects\tarea3\tarea3\bin\EntityFramework.xml
+c:\users\owner\documents\visual studio 2010\Projects\tarea3\tarea3\obj\Debug\ResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2010\Projects\tarea3\tarea3\obj\Debug\tarea3.dll
+c:\users\owner\documents\visual studio 2010\Projects\tarea3\tarea3\obj\Debug\tarea3.pdb
+H:\tarea3\tarea3\bin\tarea3.dll
+H:\tarea3\tarea3\bin\tarea3.pdb
+H:\tarea3\tarea3\bin\EntityFramework.dll
+H:\tarea3\tarea3\bin\EntityFramework.xml
+H:\tarea3\tarea3\obj\Debug\ResolveAssemblyReference.cache
+H:\tarea3\tarea3\obj\Debug\tarea3.dll
+H:\tarea3\tarea3\obj\Debug\tarea3.pdb
+F:\tarea3\tarea3\bin\tarea3.dll
+F:\tarea3\tarea3\bin\tarea3.pdb
+F:\tarea3\tarea3\bin\EntityFramework.dll
+F:\tarea3\tarea3\bin\EntityFramework.xml
+F:\tarea3\tarea3\obj\Debug\ResolveAssemblyReference.cache
+F:\tarea3\tarea3\obj\Debug\tarea3.dll
+F:\tarea3\tarea3\obj\Debug\tarea3.pdb
